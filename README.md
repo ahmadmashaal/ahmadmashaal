@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Marketplace and Learning Management System for the MENA region <br>👯 I’m looking to collaborate on more artificial intelligence projects<br>🤝 I’m looking for help with machine learning<br>🌱 I’m currently learning data analysis <br>💬 Ask me about Node.js or .NET I’m your guy<br>⚡ Fun fact football is life
+🔭 I’m currently working on a Marketplace and Learning Management System for the MENA region <br>👯 I’m looking to collaborate on exciting artificial intelligence projects.<br>🤝 Seeking guidance and mentorship in machine learning.<br>🌱 Actively learning and expanding my skills in data analysis<br>💬 Passionate about Node.js and .NET – happy to help or chat!<br>⚡ Fun fact: Football is life!
 
 
 ## 🌐 Socials:
